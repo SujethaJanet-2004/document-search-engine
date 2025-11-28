@@ -1,0 +1,11 @@
+Study Schedule Notes:
+
+- Finish Python OOP concepts this week.
+- Revise key topics: classes, objects, inheritance, polymorphism.
+- Build at least one small project to reinforce learning.
+
+Upcoming Tasks:
+
+- Practice 10 DSA questions daily.
+- Work on improving problem-solving speed.
+- Maintain consistency and track progress.

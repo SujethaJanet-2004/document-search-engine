@@ -1,0 +1,9 @@
+"DSA"
+
+Data structures are essential for solving problems efficiently.
+Common structures include arrays, linked lists, stacks, queues, and hashmaps.
+
+Algorithms like binary search, sorting, and recursion help optimize performance.
+Understanding time complexity is a key aspect of writing scalable programs.
+
+Practice and consistency are important for mastering DSA.

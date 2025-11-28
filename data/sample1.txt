@@ -1,0 +1,10 @@
+"Python"
+
+Python is a powerful programming language used for building applications,
+automation, data analysis, and artificial intelligence.
+
+One of the most important concepts in Python is the use of lists,
+dictionaries, and functions to write clean and reusable code.
+
+Python emphasizes readability and simplicity, which makes it ideal for beginners
+and advanced developers.
