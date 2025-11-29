@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="90%">
+</p>
+
 # 📝 Offline Document Search Engine (Python)
 
 A fast, lightweight, offline search engine built using **pure Python**.  
