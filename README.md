@@ -143,6 +143,36 @@ If you want to improve the project later:
 
 ---
 
+
+## 📘 What I Learned
+
+Building this project helped me understand and apply several fundamental software engineering and computer science concepts:
+
+### 🔹 Inverted Indexing  
+Implemented a fast lookup structure that maps words to documents and positions, similar to how real search engines work.
+
+### 🔹 Text Processing & Normalization  
+Practiced lowercasing, punctuation removal, and tokenization to ensure consistent, accurate search results.
+
+### 🔹 Modular System Design  
+Organized the project into clean, single-purpose components such as indexing, searching, highlighting, and analytics.
+
+### 🔹 Ranking & Search Scoring  
+Used frequency-based scoring to determine document relevance for any given query — a simplified version of real IR systems.
+
+### 🔹 Highlight Extraction  
+Built logic to extract matching lines and highlight keywords for improved readability and usability.
+
+### 🔹 Document Analytics  
+Learned how to implement word frequency counters, vocabulary measurements, and Jaccard similarity across documents.
+
+### 🔹 CLI Interface Engineering  
+Designed an intuitive, menu-driven command-line interface that ties all features together.
+
+### 🔹 Git & Version Control  
+Improved workflow by initializing a repo, committing changes, and pushing the project to GitHub in a clean, organized format.
+
+
 ## 👤 Author
 Built entirely using pure Python as a learning + portfolio project.
 
